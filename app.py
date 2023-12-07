@@ -1,6 +1,6 @@
 #import streamlit as st
 #st.title("Sanjeev Streamlit Calculator")
-#def addition(a+b):
+#def addition(a ,b):
   #return a+b
   
 #a = st.number_input('first number')
