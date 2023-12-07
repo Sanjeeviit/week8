@@ -1,5 +1,5 @@
 #import streamlit as st
-st.title("Sanjeev Streamlit Calculator")
+#st.title("Sanjeev Streamlit Calculator")
 #def addition(a+b):
   #return a+b
   
@@ -7,7 +7,7 @@ st.title("Sanjeev Streamlit Calculator")
 #b = st.number_input('second number')
 import streamlit as st
 
-st.title("Calculator")
+st.title("Calculator by Sanjeev")
 
 def addition(a, b):
     return a + b
