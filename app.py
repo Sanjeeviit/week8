@@ -7,10 +7,10 @@
 #b = st.number_input('second number')
 import streamlit as st
 
-st.title("Calculator by Sanjeev")
+st.title("Calculator by Sanjeev for multiplication ")
 
 def addition(a, b):
-    return a + b
+    return a * b
 
 a = st.number_input('Enter the first number')
 b = st.number_input('Enter the second number')
